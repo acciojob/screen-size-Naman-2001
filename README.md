@@ -1,5 +1,5 @@
 # Screen Size
-Write a JavaScript program to get the width and height of the window (any time the window is not resized).
+Write a JavaScript program to get the width and height of the window (any time the window is resized).
 ![screen-size](https://user-images.githubusercontent.com/78275204/224805706-82d53759-fb7d-4910-ba92-f741a5e052d0.gif)
 
 # Instructions 
